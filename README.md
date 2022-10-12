@@ -22,9 +22,3 @@ installs the following:
  - tortoisegit
  - spotify
  - keepass
- 
-TODO: 
-- update Visual studio
-- add azure cli
-- add microsoft sql manamgemt studio
-- remove seq and google backup
