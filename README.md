@@ -12,7 +12,6 @@ installs the following:
  - visualstudio2019enterprise 
  - microsoft-windows-terminal
  - telegram
- - google-backup-and-sync
  - f.lux
  - slack
  - postman
@@ -22,3 +21,5 @@ installs the following:
  - tortoisegit
  - spotify
  - keepass
+ - azure storage explorer
+ - sql management studio

@@ -10,7 +10,6 @@ choco install vscode
 choco install visualstudio2019enterprise
 choco install microsoft-windows-terminal
 choco install telegram
-choco install google-backup-and-sync
 choco install f.lux
 choco install slack
 choco install postman
@@ -20,4 +19,5 @@ choco install teamviewer9
 choco install tortoisegit
 choco install spotify
 choco install keepass
-
+choco install microsoftazurestorageexplorer
+choco install sql-server-management-studio
